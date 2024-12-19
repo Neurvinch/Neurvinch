@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Neurvinch
+- 👋 Hi, I’m @Neurvinch  || Naveen Pandian
 - 👀 I’m interested in this!
 - 🌱 I’m currently learning this!
 - 💞️ I’m looking to collaborate on this!
