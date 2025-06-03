@@ -164,8 +164,6 @@
 
 
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Neurvinch)](https://git.io/streak-stats)
-###
 
 
 
