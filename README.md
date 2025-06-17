@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **react , solidity .....**
 
-- 📫 How to reach me **npandian515@gmail.com**
+- 📫 How to reach me **npandian515@gmail.com or just think me of**
 
 - ⚡ Fun fact **i am Batman || Human**
 
