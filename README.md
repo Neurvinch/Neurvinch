@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **making peace**
 
-- 💬 Ask me about **react , solidity .....**
+- 💬 Ask me about **Next.js , Rust .....**
 
 - 📫 How to reach me **npandian515@gmail.com or just think me of**
 
