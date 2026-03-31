@@ -1,5 +1,4 @@
 
-![](https://komarev.com/ghpvc/?username=Neurvinch)
 
 <div align="center">
 
@@ -169,12 +168,10 @@ const naveen = {
 
 ```
 ╔══════════════════════════════════════════════════════════════════╗
-║   🎓  GSoC 2026 Applicant — OWASP Foundation (BLT-Rewards)     ║
-║   🔗  8 PRs on OWASP BLT-Rewards (6 open · 2 merged)          ║
-║   🌍  166+ public repositories across 10+ tech domains         ║
-║   ⛓️   Shipped on: ETH · BTC · Solana · Sui · Monad · Cronos   ║
-║   🤖  Production AI agents in DeFi, Legal & Social domains     ║
-║   🏗️   Full-stack to smart contracts — solo, end-to-end        ║
+║   🌍  166+ public repositories across 10+ tech domains          ║
+║   ⛓️   Shipped on: ETH · BTC · Solana · Sui · Monad · Cronos    ║
+║   🤖  Production AI agents in DeFi, Legal & Social domains      ║
+║   🏗️   Full-stack to smart contracts — solo, end-to-end         ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
