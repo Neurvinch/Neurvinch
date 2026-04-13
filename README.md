@@ -175,7 +175,6 @@ const naveen = {
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://github-profile-trophy.vercel.app/?username=Neurvinch&theme=tokyonight&no-frame=true&margin-w=8&column=7&title=Commits,Repositories,Stars,Followers,PullRequest,Issues,MultiLanguage" width="95%"/>
 
 </div>
 
