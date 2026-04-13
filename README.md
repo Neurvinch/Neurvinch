@@ -141,25 +141,6 @@ const naveen = {
 </div>
 
 ---
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Neurvinch&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=e2e8f0&rank_icon=github" height="180"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Neurvinch&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=e2e8f0&langs_count=8" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Neurvinch&theme=tokyonight&hide_border=true&background=0d0d1a&stroke=7c3aed&ring=a78bfa&fire=f59e0b&currStreakLabel=a78bfa" height="180"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Neurvinch&bg_color=0d0d1a&color=a78bfa&line=7c3aed&point=f59e0b&area=true&hide_border=true" width="95%"/>
-
-</div>
-
 ---
 
 ## 🏆 Achievements
