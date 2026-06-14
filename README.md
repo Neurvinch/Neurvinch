@@ -14,7 +14,7 @@
 &nbsp;
 <img src="https://img.shields.io/github/followers/Neurvinch?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e" alt="Followers"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Repos-166+-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Repos"/>
+<img src="https://img.shields.io/badge/Repos-232+-7c3aed?style=for-the-badge&labelColor=1a1a2e" alt="Repos"/>
 
 </div>
 
