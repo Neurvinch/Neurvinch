@@ -45,8 +45,8 @@ const naveen = {
   
   contributions: {
     openSourcePRs   : "200+ merged across 15+ organizations",
-    ownedRepositories: "232+ projects (AI, Web3, Full-stack)",
-    liveApplications: "15+ deployed apps (Vercel, on-chain)"
+    ownedRepositories: "237+ projects (AI, Web3, Full-stack)",
+    liveApplications: "27+ deployed apps (Vercel, on-chain)"
   },
   
   currentlyExploring: ["Agentic AI Systems", "ZK Cryptography", "Augmented Reality"],
@@ -172,8 +172,8 @@ const naveen = {
 ├──────────────────────────────────────────────────────────────────┤
 │ ✅ GSoC 2026 Candidate — OWASP BLT (Bitcoin Gamification)        │
 │ ✅ 200+ Merged Open Source PRs across 15+ organizations          │
-│ ✅ 232+ Public Repositories (AI, Web3, Full-Stack domains)       │
-│ ✅ 15+ Production Deployments (Vercel, on-chain, live services)  │
+│ ✅ 237+ Public Repositories (AI, Web3, Full-Stack domains)       │
+│ ✅ 27+ Production Deployments (Vercel, on-chain, live services)  │
 │ ✅ Multi-chain Expertise: ETH · BTC · Solana · Sui · Monad       │
 │ ✅ End-to-end Delivery: Smart Contracts → AI Agents → Frontend   │
 │ ✅ Top Contributor across OWASP, security, and Web3 orgs         │
