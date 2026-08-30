@@ -49,7 +49,7 @@ const naveen = {
     liveApplications: "27+ deployed apps (Vercel, on-chain)"
   },
   
-  currentlyExploring: ["Agentic AI Systems", "ZK Cryptography", "Augmented Reality"],
+  currentlyExploring: ["Agentic AI Systems", "ZK Cryptography", "Augmented Reality","Frontier AI"],
   contact: "npandian515@gmail.com"
 };
 ```
