@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Naveen%20Pandian&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2B%20Web3%20Full-Stack%20Engineer%20%7C%20GSoC%202026%20%7C%20Open%20Source%20Contributor&descAlignY=55&descAlign=62" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=Naveen%20Pandian&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%2B%20Web3%20Full-Stack%20Engineer%20%7C%20Quantum%20%7C%20Open%20Source%20Contributor&descAlignY=55&descAlign=62" width="100%"/>
 
 <a href="https://github.com/Neurvinch">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=A78BFA&center=true&vCenter=true&width=720&lines=Building+intelligent+systems+at+AI+%2B+DeFi+intersection;GSoC+2026+OWASP+BLT+%7C+166%2B+Repositories;Full-Stack%3A+Smart+Contracts+to+AI+Agents+to+Frontend;Open+Source%3A+200%2B+Merged+PRs+across+15%2B+projects" alt="Typing SVG"/>
